@@ -1,0 +1,8 @@
+# Ignorar configuraciones de JetBrains IDE
+.idea/
+
+# Ignorar directorios de compilación de CMake
+cmake-build-debug/
+
+# Ignorar binarios y archivos temporales
+*.o
